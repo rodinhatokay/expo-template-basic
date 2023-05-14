@@ -37,7 +37,7 @@ You'll need to have the following installed to run the application:
 4. Start the Expo server ```bash expo start```
 
 #### You should now be able to open the Expo client on your phone and scan the QR code to run the app, or run the app on an emulator.
-  > **Important Note:** Remember to replace "username" and "expo-template" with your actual GitHub username and repository name, respectively.
+  > **Important Note:** Remember to replace  "expo-template" with your actual wanted repository name.
 
 
 ## Libraries Used
