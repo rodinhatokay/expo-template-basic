@@ -44,17 +44,9 @@ You'll need to have the following installed to run the application:
 
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Paper](https://callstack.github.io/react-native-paper/)
+- [axios](https://github.com/axios/axios)
+- [i18n](https://github.com/fnando/i18n-js)
+- [Lottie React Native](lottie-react-native)
+- and more...
 
-## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - your-email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
